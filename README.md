@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic: Machine Learning From Disaster
 This is the repository for my first Kaggle competition. 
 
@@ -20,3 +21,7 @@ The deliverable for this competition is a CSV file with 2 columns, PassengerID a
 
 * Titanic Training Data **train.csv**
 * Titanic Testing Data **test.csv**
+=======
+# Titanic
+Kaggle.com Titanic compeition
+>>>>>>> 2973064355db0067987eb99f299a5b44a2f5373a
