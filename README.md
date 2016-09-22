@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Titanic: Machine Learning From Disaster
 This is the repository for my first Kaggle competition. 
 
