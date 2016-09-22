@@ -12,16 +12,13 @@ Contact: trace.tidwell@gmail.com
 
 The deliverable for this competition is a CSV file with 2 columns, PassengerID and Survived, comprised of 418 predictions.
 
+* Python Code Containing Solution **solution.py**
 * Decision Tree Classifier **clf_dt_titanic.csv**
 * ECLF Classifier **clf_eclf_titanic.csv**
-* GB Classifier **clf_gb_titanic.csv**
+* Gradient Boosting Classifier **clf_gb_titanic.csv**
 * Random Forest Classifier **clf_rf_titanic.csv**
 
 ## Other Files
 
 * Titanic Training Data **train.csv**
 * Titanic Testing Data **test.csv**
-=======
-# Titanic
-Kaggle.com Titanic compeition
->>>>>>> 2973064355db0067987eb99f299a5b44a2f5373a
